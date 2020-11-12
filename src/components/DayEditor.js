@@ -1,5 +1,5 @@
 import React from 'react';
-import { Radio } from 'antd';
+import { Radio } from 'asp-antd-compatible';
 import Between from './Between';
 import CheckBoxEditor from './CheckBoxEditor';
 import FromEvery from './FromEvery';

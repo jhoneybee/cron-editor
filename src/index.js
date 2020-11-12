@@ -1,5 +1,5 @@
 import React from 'react';
-import { Tabs } from 'antd';
+import { Tabs } from 'asp-antd-compatible';
 import SecondEditor from './components/SecondEditor';
 import MinuteEditor from './components/MinuteEditor';
 import HourEditor from './components/HourEditor';

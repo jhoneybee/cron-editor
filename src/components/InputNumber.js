@@ -1,5 +1,5 @@
 import React from 'react';
-import { Input } from 'antd';
+import { Input } from 'asp-antd-compatible';
 
 class InputNumber extends React.Component {
   state = {};

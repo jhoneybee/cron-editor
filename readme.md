@@ -27,7 +27,7 @@ export default Test;
 
 ```jsx
 import React from 'react';
-import { Input } from 'antd';
+import { Input } from 'asp-antd-compatible';
 import CronEditor from 'antd-cron-editor';
 
 class Test extends React.Component {

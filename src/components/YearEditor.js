@@ -1,5 +1,5 @@
 import React from 'react';
-import { Radio } from 'antd';
+import { Radio } from 'asp-antd-compatible';
 import moment from 'moment';
 import Between from './Between';
 import Reg, { index } from './Reg';

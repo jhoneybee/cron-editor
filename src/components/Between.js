@@ -1,5 +1,5 @@
 import React from 'react';
-import { Input } from 'antd';
+import { Input } from 'asp-antd-compatible';
 import InputNumber from './InputNumber';
 
 const style = { width: 70, textAlign: 'center', paddingRight: '0px', paddingLeft: '0px' };

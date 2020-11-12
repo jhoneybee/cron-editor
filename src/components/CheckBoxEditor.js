@@ -1,5 +1,5 @@
 import React from 'react';
-import { Checkbox, Row, Col } from 'antd';
+import { Checkbox, Row, Col } from 'asp-antd-compatible';
 
 const CheckBoxEditor = ({ onChange, min = 0, max, span = 2, value }) => {
   const checkBoxs = (min, max) => {
